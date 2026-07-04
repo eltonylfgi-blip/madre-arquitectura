@@ -1,5 +1,8 @@
 # MADRE — Puntos de dolor de un sistema personal de automatización (busco feedback + repos)
 
+> **EN (TL;DR):** This repo documents — in Spanish — the architecture and *open pain points* of a personal, file-based automation system built for continuous improvement with minimal human intervention. I publish the problems (not the implementation) to collect feedback and open-source repo recommendations. Issues/Discussions welcome, in English or Spanish.
+
+
 > **Qué es MADRE (a grandes rasgos):** un sistema personal que corre en **un solo ordenador** y cuyo objetivo es
 > **mejorar de forma continua y producir valor con la mínima intervención humana**. Absorbe conocimiento, lo
 > destila, acumula criterio y persigue generar resultados de forma autónoma.
